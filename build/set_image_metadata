@@ -21,7 +21,7 @@ org.opencontainers.image.revision=$GITHUB_SHA
 org.opencontainers.image.vendor=$GITHUB_REPOSITORY_OWNER
 org.opencontainers.image.license=GNU GENERAL PUBLIC LICENSE v3
 org.opencontainers.image.title=$GITHUB_REPOSITORY
-org.opencontainers.image.description=Backup databases using pg_dump and upload backups using rclone
+org.opencontainers.image.description=Backup databases using mariadb-dump and upload backups using rclone
 EOF
 )
 
